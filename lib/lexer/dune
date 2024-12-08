@@ -1,0 +1,4 @@
+(library
+ (name lexer)
+ (public_name findout_ocamllex.lexer)
+ (modules lexer))

@@ -1,0 +1,4 @@
+(executable
+ (public_name findout_ocamllex)
+ (name main)
+ (libraries findout_ocamllex lexer))

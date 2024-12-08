@@ -1,0 +1,4 @@
+(dirs lexer)
+
+(library
+ (name findout_ocamllex))
